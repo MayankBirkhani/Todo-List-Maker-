@@ -1,2 +1,2 @@
 # Todo-List-Maker-
-I made this mini peoject for fun while I was learning React Js.
+I made this mini project for fun while I was learning React Js.
